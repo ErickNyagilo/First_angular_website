@@ -38,7 +38,7 @@
     height: auto;
     border-radius: 2rem;
   }
-  
+  /*
   .form-label-group>input,
   .form-label-group>label {
     padding: var(--input-padding-y) var(--input-padding-x);
@@ -51,13 +51,13 @@
     display: block;
     width: 100%;
     margin-bottom: 0;
-    /* Override default `<label>` margin */
+    /* Override default `<label>` margin 
     line-height: 1.5;
     color: #495057;
     border: 1px solid transparent;
     border-radius: .25rem;
     transition: all .1s ease-in-out;
-  }
+  } */
   
   /*  The two link like button */
   #hero .btn-get-started {
@@ -103,7 +103,7 @@
 
 /*  end */
 
-
+/*
 
   .form-label-group input::-webkit-input-placeholder {
     color: transparent;
@@ -135,7 +135,7 @@
     padding-bottom: calc(var(--input-padding-y) / 3);
     font-size: 12px;
     color: #777;
-  }
+  } */
   
   
   
